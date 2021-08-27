@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raam6
+- 👋 Hi, I’m @raam
 - Recent graduate from Loughborough University
 - Looking to learn more about financial analysis
 <!---
