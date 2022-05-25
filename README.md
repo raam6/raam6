@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raam</h1>
 <h3 align="center">Mathematics graduate from Loughborough University🌟.</h3>
 <br>
-- I am pursuing knowledge in data science, quantitative research and financial analysis. Currently working as a Business Analyst for a financial services firm. 
+- I am pursuing knowledge in Data Science, Quantitative Research and Financial Analysis. Currently working as a Business Analyst for a financial services firm. 
 
 <h4 align="center">Visitor count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{raam6}/count.svg" alt="raam6 :: Visitor's Count" /></p>
